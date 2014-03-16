@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "content": [
+        {
+            "agencyId": "DTA",
+            "agencyName": "Demo Transit Authority",
+            "agencyUrl": "http://google.com",
+            "agencyTimezone": "America/Los_Angeles",
+            "agencyLang": null
+        }
+    ]
+}

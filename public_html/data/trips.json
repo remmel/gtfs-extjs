@@ -1,0 +1,71 @@
+{
+    "success": true,
+    "content": [
+        {
+            "tripId": "AAMV1",
+            "tripHeadsign": "to Amargosa Valley",
+            "directionId": false,
+            "routeId_": "AAMV"
+        },
+        {
+            "tripId": "AAMV2",
+            "tripHeadsign": "to Airport",
+            "directionId": true,
+            "routeId_": "AAMV"
+        },
+        {
+            "tripId": "AAMV3",
+            "tripHeadsign": "to Amargosa Valley",
+            "directionId": false,
+            "routeId_": "AAMV"
+        },
+        {
+            "tripId": "AAMV4",
+            "tripHeadsign": "to Airport",
+            "directionId": true,
+            "routeId_": "AAMV"
+        },
+        {
+            "tripId": "AB1",
+            "tripHeadsign": "to Bullfrog",
+            "directionId": false,
+            "routeId_": "AB"
+        },
+        {
+            "tripId": "AB2",
+            "tripHeadsign": "to Airport",
+            "directionId": true,
+            "routeId_": "AB"
+        },
+        {
+            "tripId": "BFC1",
+            "tripHeadsign": "to Furnace Creek Resort",
+            "directionId": false,
+            "routeId_": "BFC"
+        },
+        {
+            "tripId": "BFC2",
+            "tripHeadsign": "to Bullfrog",
+            "directionId": true,
+            "routeId_": "BFC"
+        },
+        {
+            "tripId": "CITY1",
+            "tripHeadsign": "",
+            "directionId": false,
+            "routeId_": "CITY"
+        },
+        {
+            "tripId": "CITY2",
+            "tripHeadsign": "",
+            "directionId": true,
+            "routeId_": "CITY"
+        },
+        {
+            "tripId": "STBA",
+            "tripHeadsign": "Shuttle",
+            "directionId": false,
+            "routeId_": "STBA"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "success": true,
+    "content": [
+        {
+            "routeId": "AAMV",
+            "routeShortName": "50",
+            "routeLongName": "Airport - Amargosa Valley",
+            "routeDesc": "",
+            "routeType": 3,
+            "agencyId_": "DTA"
+        },
+        {
+            "routeId": "AB",
+            "routeShortName": "10",
+            "routeLongName": "Airport - Bullfrog",
+            "routeDesc": "",
+            "routeType": 3,
+            "agencyId_": "DTA"
+        },
+        {
+            "routeId": "BFC",
+            "routeShortName": "20",
+            "routeLongName": "Bullfrog - Furnace Creek Resort",
+            "routeDesc": "",
+            "routeType": 3,
+            "agencyId_": "DTA"
+        },
+        {
+            "routeId": "CITY",
+            "routeShortName": "40",
+            "routeLongName": "City",
+            "routeDesc": "",
+            "routeType": 3,
+            "agencyId_": "DTA"
+        },
+        {
+            "routeId": "STBA",
+            "routeShortName": "30",
+            "routeLongName": "Stagecoach - Airport Shuttle",
+            "routeDesc": "",
+            "routeType": 3,
+            "agencyId_": "DTA"
+        }
+    ]
+}
