@@ -1,0 +1,104 @@
+{
+    "success": true,
+    "content": [
+        {
+            "stopId": "AMV",
+            "stopName": "Amargosa Valley (Demo)",
+            "stopDesc": "",
+            "stopLat": "36.641496",
+            "stopLon": "-116.40094",
+            "zoneId": "",
+            "stopUrl": null,
+            "locationType": null,
+            "parentStation": null
+        },
+        {
+            "stopId": "BEATTY_AIRPORT",
+            "stopName": "Nye County Airport (Demo)",
+            "stopDesc": "",
+            "stopLat": "36.868446",
+            "stopLon": "-116.784582",
+            "zoneId": "",
+            "stopUrl": "\r",
+            "locationType": null,
+            "parentStation": null
+        },
+        {
+            "stopId": "BULLFROG",
+            "stopName": "Bullfrog (Demo)",
+            "stopDesc": "",
+            "stopLat": "36.88108",
+            "stopLon": "-116.81797",
+            "zoneId": "",
+            "stopUrl": "\r",
+            "locationType": null,
+            "parentStation": null
+        },
+        {
+            "stopId": "DADAN",
+            "stopName": "Doing Ave / D Ave N (Demo)",
+            "stopDesc": "",
+            "stopLat": "36.909489",
+            "stopLon": "-116.768242",
+            "zoneId": "",
+            "stopUrl": "\r",
+            "locationType": null,
+            "parentStation": null
+        },
+        {
+            "stopId": "EMSI",
+            "stopName": "E Main St / S Irving St (Demo)",
+            "stopDesc": "",
+            "stopLat": "36.905697",
+            "stopLon": "-116.76218",
+            "zoneId": "",
+            "stopUrl": "\r",
+            "locationType": null,
+            "parentStation": null
+        },
+        {
+            "stopId": "FUR_CREEK_RES",
+            "stopName": "Furnace Creek Resort (Demo)",
+            "stopDesc": "",
+            "stopLat": "36.425288",
+            "stopLon": "-117.133162",
+            "zoneId": "",
+            "stopUrl": "\r",
+            "locationType": null,
+            "parentStation": null
+        },
+        {
+            "stopId": "NADAV",
+            "stopName": "North Ave / D Ave N (Demo)",
+            "stopDesc": "",
+            "stopLat": "36.914893",
+            "stopLon": "-116.76821",
+            "zoneId": "",
+            "stopUrl": "\r",
+            "locationType": null,
+            "parentStation": null
+        },
+        {
+            "stopId": "NANAA",
+            "stopName": "North Ave / N A Ave (Demo)",
+            "stopDesc": "",
+            "stopLat": "36.914944",
+            "stopLon": "-116.761472",
+            "zoneId": "",
+            "stopUrl": "\r",
+            "locationType": null,
+            "parentStation": null
+        },
+        {
+            "stopId": "STAGECOACH",
+            "stopName": "Stagecoach Hotel & Casino (Demo)",
+            "stopDesc": "",
+            "stopLat": "36.915682",
+            "stopLon": "-116.751677",
+            "zoneId": "",
+            "stopUrl": "\r",
+            "locationType": null,
+            "parentStation": null
+        }
+    ]
+}

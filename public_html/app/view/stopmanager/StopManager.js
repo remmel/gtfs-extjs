@@ -1,4 +1,4 @@
-Ext.define('CB.view.StopManager', {
+Ext.define('CB.view.stopmanager.StopManager', {
     extend: 'Ext.panel.Panel',
     alias: 'widget.stopmanager',
     requires: [
@@ -8,33 +8,20 @@ Ext.define('CB.view.StopManager', {
         'Ext.form.Panel',
         'Ext.form.field.Text'
     ],
-    title: 'Map',
+    title: 'StopManager',
     initComponent: function() {
         var me = this;
 
         Ext.applyIf(me, {
             items: [
                 {
-                    xtype: 'button',
-                    text: 'load'
-                    
+                    xtype: 'stoplist'
                 },{
-                    xtype: 'gridpanel',
-                    title: 'Stops',
-                    store: 'Stops',
-                    columns: [
-                        {
-                            xtype: 'gridcolumn',
-                            dataIndex: 'string',
-                            text: 'String'
-                        }
-                    ]
-                },
-                {
+                    xtype: 'stopedit'
+                },{
                     xtype: 'panel',
                     title: 'Map'
-                },
-                {
+                },{
                     xtype: 'form',
                     height: 199,
                     bodyPadding: 10,
@@ -62,6 +49,7 @@ Ext.define('CB.view.StopManager', {
                         }
                     ]
                 }
+                //{xtype: 'gmappanel'}
             ]
         });
 

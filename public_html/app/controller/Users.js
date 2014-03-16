@@ -7,7 +7,9 @@ Ext.define('CB.controller.Users', {
     stores: [
         'Users'
     ],
-    models: ['User'],
+    models: [
+        'User'
+    ],
     init: function() {
         this.control({
             'userlist': {

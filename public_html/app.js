@@ -1,9 +1,7 @@
 Ext.application({
     requires: ['Ext.container.Viewport'],
     name: 'CB',
-
     appFolder: 'app',
-    
     controllers: [
         'Users',
         'Main',
