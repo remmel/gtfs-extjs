@@ -18,38 +18,7 @@ Ext.define('CB.view.stopmanager.StopManager', {
                     xtype: 'stoplist'
                 },{
                     xtype: 'stopedit'
-                },{
-                    xtype: 'panel',
-                    title: 'Map'
-                },{
-                    xtype: 'form',
-                    height: 199,
-                    bodyPadding: 10,
-                    title: 'Stop Information',
-                    items: [
-                        {
-                            xtype: 'textfield',
-                            anchor: '100%',
-                            fieldLabel: 'id'
-                        },
-                        {
-                            xtype: 'textfield',
-                            anchor: '100%',
-                            fieldLabel: 'name'
-                        },
-                        {
-                            xtype: 'textfield',
-                            anchor: '100%',
-                            fieldLabel: 'lat'
-                        },
-                        {
-                            xtype: 'textfield',
-                            anchor: '100%',
-                            fieldLabel: 'lng'
-                        }
-                    ]
-                }
-                //{xtype: 'gmappanel'}
+                },{xtype: 'gmappanel'}
             ]
         });
 

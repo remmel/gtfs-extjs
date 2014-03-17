@@ -11,6 +11,9 @@ Ext.define('CB.controller.StopManager', {
     models: [
         'Stop'
     ],
+    refs: [
+        { ref: "stopEdit", selector: "form"}
+    ],
     init: function() {
         this.control({
             'stoplist': {
@@ -21,12 +24,8 @@ Ext.define('CB.controller.StopManager', {
             }
         });
     },
-    showStop: function(grid, record) {
-        var view = Ext.widget('stopedit');
-        view.loadRecord(record);
-        V = view;
-        R = record;
-        console.log(record);
+    showStop: function(src, record) {
+        this.getStopEdit().loadRecord(record);
     },
     updateStop: function(btn){
         T = this;
