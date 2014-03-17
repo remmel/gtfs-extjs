@@ -3,7 +3,8 @@ Ext.define('CB.controller.StopManager', {
     views: [
         'stopmanager.StopManager',
         'stopmanager.List',
-        'stopmanager.Edit'
+        'stopmanager.Edit',
+        'stopmanager.Map'
     ],
     stores: [
         'Stops'
@@ -12,7 +13,8 @@ Ext.define('CB.controller.StopManager', {
         'Stop'
     ],
     refs: [
-        { ref: "stopEdit", selector: "form"}
+        { ref: "stopEdit", selector: "stopedit"},
+        { ref: "stopMap", selector: "stopmap"},
     ],
     init: function() {
         this.control({
@@ -26,6 +28,7 @@ Ext.define('CB.controller.StopManager', {
     },
     showStop: function(src, record) {
         this.getStopEdit().loadRecord(record);
+        this.getStopMap().highlightRecord(record);
     },
     updateStop: function(btn){
         T = this;

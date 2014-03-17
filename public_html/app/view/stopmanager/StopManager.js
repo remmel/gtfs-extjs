@@ -6,7 +6,8 @@ Ext.define('CB.view.stopmanager.StopManager', {
         'Ext.grid.column.Column',
         'Ext.grid.View',
         'Ext.form.Panel',
-        'Ext.form.field.Text'
+        'Ext.form.field.Text',
+        'Ext.ux.GMapPanel'
     ],
     title: 'StopManager',
     initComponent: function() {
@@ -16,9 +17,9 @@ Ext.define('CB.view.stopmanager.StopManager', {
             items: [
                 {
                     xtype: 'stoplist'
-                },{
+                }, {
                     xtype: 'stopedit'
-                },{xtype: 'gmappanel'}
+                }, {xtype: 'stopmap'}
             ]
         });
 

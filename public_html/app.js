@@ -1,5 +1,16 @@
+Ext.Loader.setPath('Ext.ux', 'ux');
+
+//Ext.Loader.setPath('Ext.ux', '../ux');
+//Ext.require([
+//    'Ext.window.*',
+//    'Ext.ux.GMapPanel'
+//]);
+
 Ext.application({
-    requires: ['Ext.container.Viewport'],
+    requires: [
+        'Ext.container.Viewport',
+        
+    ],
     name: 'CB',
     appFolder: 'app',
     controllers: [
