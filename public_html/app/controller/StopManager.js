@@ -25,6 +25,7 @@ Ext.define('CB.controller.StopManager', {
                 click: this.updateStop
             }
         });
+        
     },
     showStop: function(src, record) {
         this.getStopEdit().loadRecord(record);
@@ -34,5 +35,5 @@ Ext.define('CB.controller.StopManager', {
         T = this;
         var form = this.up('form').getForm();
         console.log(form);
-    }
+    },
 });

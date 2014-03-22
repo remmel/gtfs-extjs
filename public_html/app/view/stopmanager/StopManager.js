@@ -12,7 +12,6 @@ Ext.define('CB.view.stopmanager.StopManager', {
     title: 'StopManager',
     initComponent: function() {
         var me = this;
-
         Ext.applyIf(me, {
             items: [
                 {
