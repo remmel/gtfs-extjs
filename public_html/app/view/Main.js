@@ -17,18 +17,7 @@ Ext.define('CB.view.Main', {
                         html: 'hgjgjg'
                     }, {
                         xtype: 'stopmanager'
-                    }/*, {
-                        xtype: 'panel',
-                        title: 'Shape'
-                    }, {
-                        xtype: 'panel',
-                        title: 'Conf',
-                        items: [{
-                                xtype: 'filefield',
-                                fieldLabel: 'Label'
-                            }
-                        ]
-                    }*/
+                    }
                 ]
             }];
         this.callParent(arguments);

@@ -1,6 +1,7 @@
 Ext.define('CB.view.stopmanager.Edit', {
     extend: 'Ext.form.Panel',
     alias: 'widget.stopedit',
+    store: 'Stops',
     title: 'Stop Information',
     items: [{
             xtype: 'textfield',
