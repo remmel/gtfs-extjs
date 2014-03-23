@@ -5,67 +5,67 @@
             "tripId": "AAMV1",
             "tripHeadsign": "to Amargosa Valley",
             "directionId": false,
-            "routeId_": "AAMV"
+            "routeId": "AAMV"
         },
         {
             "tripId": "AAMV2",
             "tripHeadsign": "to Airport",
             "directionId": true,
-            "routeId_": "AAMV"
+            "routeId": "AAMV"
         },
         {
             "tripId": "AAMV3",
             "tripHeadsign": "to Amargosa Valley",
             "directionId": false,
-            "routeId_": "AAMV"
+            "routeId": "AAMV"
         },
         {
             "tripId": "AAMV4",
             "tripHeadsign": "to Airport",
             "directionId": true,
-            "routeId_": "AAMV"
+            "routeId": "AAMV"
         },
         {
             "tripId": "AB1",
             "tripHeadsign": "to Bullfrog",
             "directionId": false,
-            "routeId_": "AB"
+            "routeId": "AB"
         },
         {
             "tripId": "AB2",
             "tripHeadsign": "to Airport",
             "directionId": true,
-            "routeId_": "AB"
+            "routeId": "AB"
         },
         {
             "tripId": "BFC1",
             "tripHeadsign": "to Furnace Creek Resort",
             "directionId": false,
-            "routeId_": "BFC"
+            "routeId": "BFC"
         },
         {
             "tripId": "BFC2",
             "tripHeadsign": "to Bullfrog",
             "directionId": true,
-            "routeId_": "BFC"
+            "routeId": "BFC"
         },
         {
             "tripId": "CITY1",
             "tripHeadsign": "",
             "directionId": false,
-            "routeId_": "CITY"
+            "routeId": "CITY"
         },
         {
             "tripId": "CITY2",
             "tripHeadsign": "",
             "directionId": true,
-            "routeId_": "CITY"
+            "routeId": "CITY"
         },
         {
             "tripId": "STBA",
             "tripHeadsign": "Shuttle",
             "directionId": false,
-            "routeId_": "STBA"
+            "routeId": "STBA"
         }
     ]
 }

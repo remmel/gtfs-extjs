@@ -7,7 +7,7 @@
             "routeLongName": "Airport - Amargosa Valley",
             "routeDesc": "",
             "routeType": 3,
-            "agencyId_": "DTA"
+            "agencyId": "DTA"
         },
         {
             "routeId": "AB",
@@ -15,7 +15,7 @@
             "routeLongName": "Airport - Bullfrog",
             "routeDesc": "",
             "routeType": 3,
-            "agencyId_": "DTA"
+            "agencyId": "DTA"
         },
         {
             "routeId": "BFC",
@@ -23,7 +23,7 @@
             "routeLongName": "Bullfrog - Furnace Creek Resort",
             "routeDesc": "",
             "routeType": 3,
-            "agencyId_": "DTA"
+            "agencyId": "DTA"
         },
         {
             "routeId": "CITY",
@@ -31,7 +31,7 @@
             "routeLongName": "City",
             "routeDesc": "",
             "routeType": 3,
-            "agencyId_": "DTA"
+            "agencyId": "DTA"
         },
         {
             "routeId": "STBA",
@@ -39,7 +39,7 @@
             "routeLongName": "Stagecoach - Airport Shuttle",
             "routeDesc": "",
             "routeType": 3,
-            "agencyId_": "DTA"
+            "agencyId": "DTA"
         }
     ]
 }
