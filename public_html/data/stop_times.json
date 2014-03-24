@@ -1,0 +1,313 @@
+{
+    "success": true,
+    "content": [
+        {
+            "tripId": "STBA",
+            "arrivalTime": "6:00:00",
+            "departureTime": "6:00:00",
+            "stopId": "STAGECOACH",
+            "stopSequence": 1,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "STBA",
+            "arrivalTime": "6:20:00",
+            "departureTime": "6:20:00",
+            "stopId": "BEATTY_AIRPORT",
+            "stopSequence": 2,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "CITY1",
+            "arrivalTime": "6:00:00",
+            "departureTime": "6:00:00",
+            "stopId": "STAGECOACH",
+            "stopSequence": 1,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "CITY1",
+            "arrivalTime": "6:05:00",
+            "departureTime": "6:07:00",
+            "stopId": "NANAA",
+            "stopSequence": 2,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "CITY1",
+            "arrivalTime": "6:12:00",
+            "departureTime": "6:14:00",
+            "stopId": "NADAV",
+            "stopSequence": 3,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "CITY1",
+            "arrivalTime": "6:19:00",
+            "departureTime": "6:21:00",
+            "stopId": "DADAN",
+            "stopSequence": 4,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "CITY1",
+            "arrivalTime": "6:26:00",
+            "departureTime": "6:28:00",
+            "stopId": "EMSI",
+            "stopSequence": 5,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "CITY2",
+            "arrivalTime": "6:28:00",
+            "departureTime": "6:30:00",
+            "stopId": "EMSI",
+            "stopSequence": 1,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "CITY2",
+            "arrivalTime": "6:35:00",
+            "departureTime": "6:37:00",
+            "stopId": "DADAN",
+            "stopSequence": 2,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "CITY2",
+            "arrivalTime": "6:42:00",
+            "departureTime": "6:44:00",
+            "stopId": "NADAV",
+            "stopSequence": 3,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "CITY2",
+            "arrivalTime": "6:49:00",
+            "departureTime": "6:51:00",
+            "stopId": "NANAA",
+            "stopSequence": 4,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "CITY2",
+            "arrivalTime": "6:56:00",
+            "departureTime": "6:58:00",
+            "stopId": "STAGECOACH",
+            "stopSequence": 5,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "AB1",
+            "arrivalTime": "8:00:00",
+            "departureTime": "8:00:00",
+            "stopId": "BEATTY_AIRPORT",
+            "stopSequence": 1,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "AB1",
+            "arrivalTime": "8:10:00",
+            "departureTime": "8:15:00",
+            "stopId": "BULLFROG",
+            "stopSequence": 2,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "AB2",
+            "arrivalTime": "12:05:00",
+            "departureTime": "12:05:00",
+            "stopId": "BULLFROG",
+            "stopSequence": 1,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "AB2",
+            "arrivalTime": "12:15:00",
+            "departureTime": "12:15:00",
+            "stopId": "BEATTY_AIRPORT",
+            "stopSequence": 2,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "BFC1",
+            "arrivalTime": "8:20:00",
+            "departureTime": "8:20:00",
+            "stopId": "BULLFROG",
+            "stopSequence": 1,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "BFC1",
+            "arrivalTime": "9:20:00",
+            "departureTime": "9:20:00",
+            "stopId": "FUR_CREEK_RES",
+            "stopSequence": 2,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "BFC2",
+            "arrivalTime": "11:00:00",
+            "departureTime": "11:00:00",
+            "stopId": "FUR_CREEK_RES",
+            "stopSequence": 1,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "BFC2",
+            "arrivalTime": "12:00:00",
+            "departureTime": "12:00:00",
+            "stopId": "BULLFROG",
+            "stopSequence": 2,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "AAMV1",
+            "arrivalTime": "8:00:00",
+            "departureTime": "8:00:00",
+            "stopId": "BEATTY_AIRPORT",
+            "stopSequence": 1,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "AAMV1",
+            "arrivalTime": "9:00:00",
+            "departureTime": "9:00:00",
+            "stopId": "AMV",
+            "stopSequence": 2,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "AAMV2",
+            "arrivalTime": "10:00:00",
+            "departureTime": "10:00:00",
+            "stopId": "AMV",
+            "stopSequence": 1,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "AAMV2",
+            "arrivalTime": "11:00:00",
+            "departureTime": "11:00:00",
+            "stopId": "BEATTY_AIRPORT",
+            "stopSequence": 2,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "AAMV3",
+            "arrivalTime": "13:00:00",
+            "departureTime": "13:00:00",
+            "stopId": "BEATTY_AIRPORT",
+            "stopSequence": 1,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "AAMV3",
+            "arrivalTime": "14:00:00",
+            "departureTime": "14:00:00",
+            "stopId": "AMV",
+            "stopSequence": 2,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "AAMV4",
+            "arrivalTime": "15:00:00",
+            "departureTime": "15:00:00",
+            "stopId": "AMV",
+            "stopSequence": 1,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        },
+        {
+            "tripId": "AAMV4",
+            "arrivalTime": "16:00:00",
+            "departureTime": "16:00:00",
+            "stopId": "BEATTY_AIRPORT",
+            "stopSequence": 2,
+            "stopHeadsign": "",
+            "pickupType": "",
+            "dropOffTime": "",
+            "shapeDistTraveled": ""
+        }
+    ]
+}

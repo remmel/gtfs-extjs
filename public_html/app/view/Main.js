@@ -8,15 +8,13 @@ Ext.define('CB.view.Main', {
             {
                 xtype: 'tabpanel',
                 region: 'center',
-                activeTab: 2,
+                activeTab: 0,
                 items: [{
-                        xtype: 'userlist'
-                    }, {
-                        xtype: 'panel',
-                        title: 'Viewer',
-                        html: 'hgjgjg'
+                        xtype: 'routemanager'
                     }, {
                         xtype: 'stopmanager'
+                    }, {
+                        xtype: 'userlist'
                     }
                 ]
             }];

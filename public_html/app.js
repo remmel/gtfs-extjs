@@ -16,7 +16,8 @@ Ext.application({
     controllers: [
         'Users',
         'Main',
-        'StopManager'
+        'StopManager',
+        'RouteManager'
     ],
     launch: function() {
         Ext.create('Ext.container.Viewport', {

@@ -2,70 +2,103 @@
     "success": true,
     "content": [
         {
-            "tripId": "AAMV1",
-            "tripHeadsign": "to Amargosa Valley",
-            "directionId": false,
-            "routeId": "AAMV"
-        },
-        {
-            "tripId": "AAMV2",
-            "tripHeadsign": "to Airport",
-            "directionId": true,
-            "routeId": "AAMV"
-        },
-        {
-            "tripId": "AAMV3",
-            "tripHeadsign": "to Amargosa Valley",
-            "directionId": false,
-            "routeId": "AAMV"
-        },
-        {
-            "tripId": "AAMV4",
-            "tripHeadsign": "to Airport",
-            "directionId": true,
-            "routeId": "AAMV"
-        },
-        {
+            "routeId": "AB",
+            "serviceId": "FULLW",
             "tripId": "AB1",
             "tripHeadsign": "to Bullfrog",
-            "directionId": false,
-            "routeId": "AB"
+            "directionId": "0",
+            "blockId": 1,
+            "shapeId": ""
         },
         {
+            "routeId": "AB",
+            "serviceId": "FULLW",
             "tripId": "AB2",
             "tripHeadsign": "to Airport",
-            "directionId": true,
-            "routeId": "AB"
+            "directionId": "1",
+            "blockId": 2,
+            "shapeId": ""
         },
         {
-            "tripId": "BFC1",
-            "tripHeadsign": "to Furnace Creek Resort",
-            "directionId": false,
-            "routeId": "BFC"
-        },
-        {
-            "tripId": "BFC2",
-            "tripHeadsign": "to Bullfrog",
-            "directionId": true,
-            "routeId": "BFC"
-        },
-        {
-            "tripId": "CITY1",
-            "tripHeadsign": "",
-            "directionId": false,
-            "routeId": "CITY"
-        },
-        {
-            "tripId": "CITY2",
-            "tripHeadsign": "",
-            "directionId": true,
-            "routeId": "CITY"
-        },
-        {
+            "routeId": "STBA",
+            "serviceId": "FULLW",
             "tripId": "STBA",
             "tripHeadsign": "Shuttle",
-            "directionId": false,
-            "routeId": "STBA"
+            "directionId": "",
+            "blockId": null,
+            "shapeId": ""
+        },
+        {
+            "routeId": "CITY",
+            "serviceId": "FULLW",
+            "tripId": "CITY1",
+            "tripHeadsign": "",
+            "directionId": "0",
+            "blockId": null,
+            "shapeId": ""
+        },
+        {
+            "routeId": "CITY",
+            "serviceId": "FULLW",
+            "tripId": "CITY2",
+            "tripHeadsign": "",
+            "directionId": "1",
+            "blockId": null,
+            "shapeId": ""
+        },
+        {
+            "routeId": "BFC",
+            "serviceId": "FULLW",
+            "tripId": "BFC1",
+            "tripHeadsign": "to Furnace Creek Resort",
+            "directionId": "0",
+            "blockId": 1,
+            "shapeId": ""
+        },
+        {
+            "routeId": "BFC",
+            "serviceId": "FULLW",
+            "tripId": "BFC2",
+            "tripHeadsign": "to Bullfrog",
+            "directionId": "1",
+            "blockId": 2,
+            "shapeId": ""
+        },
+        {
+            "routeId": "AAMV",
+            "serviceId": "WE",
+            "tripId": "AAMV1",
+            "tripHeadsign": "to Amargosa Valley",
+            "directionId": "0",
+            "blockId": null,
+            "shapeId": ""
+        },
+        {
+            "routeId": "AAMV",
+            "serviceId": "WE",
+            "tripId": "AAMV2",
+            "tripHeadsign": "to Airport",
+            "directionId": "1",
+            "blockId": null,
+            "shapeId": ""
+        },
+        {
+            "routeId": "AAMV",
+            "serviceId": "WE",
+            "tripId": "AAMV3",
+            "tripHeadsign": "to Amargosa Valley",
+            "directionId": "0",
+            "blockId": null,
+            "shapeId": ""
+        },
+        {
+            "routeId": "AAMV",
+            "serviceId": "WE",
+            "tripId": "AAMV4",
+            "tripHeadsign": "to Airport",
+            "directionId": "1",
+            "blockId": null,
+            "shapeId": ""
         }
     ]
 }

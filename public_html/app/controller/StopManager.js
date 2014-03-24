@@ -30,9 +30,11 @@ Ext.define('CB.controller.StopManager', {
             },
             'stoplist button[action=remove-stop]': {
                 click: this.removeStop
+            },
+            'stopmanager' : {
+                beforeshow: this.tabdisplayed
             }
         });
-
         this.getStopsStore().on('load', this.onStoreLoad, this);
     },
     /**
@@ -95,5 +97,12 @@ Ext.define('CB.controller.StopManager', {
         Ext.each(records, function(record) {
            me.addRecordToMap(record);
         }, this);
+    },
+    tabdisplayed: function(){
+        /*var me = this;
+        var records = this.getStopsStore().data.items;
+        Ext.each(records, function(record) {
+           me.addRecordToMap(record);
+        }, this);*/
     }
 });

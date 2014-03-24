@@ -1,5 +1,5 @@
 Ext.define('CB.model.Trip', {
     extend: 'Ext.data.Model',
-    fields: ['tripId', 'tripHeadsign', 'directionId', 'routeId'],
+    fields: ['routeId', 'serviceId', 'tripId', 'tripHeadsign', 'directionId'],
     idProperty: 'tripId'
 });
