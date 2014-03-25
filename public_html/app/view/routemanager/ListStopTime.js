@@ -15,14 +15,18 @@ Ext.define('CB.view.routemanager.ListStopTime', {
         {header: 'shapeDistTraveled', dataIndex: 'shapeDistTraveled', flex: 1, hidden: true}
     ],
     tbar: [{
+            text: 'All',
+            tooltip: 'Display all StopTimes',
+            action: 'all'
+        },{
             text: 'Add',
-            tooltip: 'Add a new route',
-            action: 'add-route',
+            tooltip: 'Add a new StopTime',
+            action: 'add',
             iconCls: 'add'
         }, '-', {
             text: 'Remove',
-            tooltip: 'Remove the selected route',
-            action: 'remove-route',
+            tooltip: 'Remove the selected StopTime',
+            action: 'remove',
             iconCls: 'remove'
         }]
 });

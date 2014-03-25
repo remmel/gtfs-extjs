@@ -13,16 +13,16 @@ Ext.define('CB.view.routemanager.ListTrip', {
     tbar: [{
             text: 'All',
             tooltip: 'Display all trips',
-            action: 'all-trips'
+            action: 'all'
         },{
             text: 'Add',
-            tooltip: 'Add a new route',
-            action: 'add-route',
+            tooltip: 'Add a new trip',
+            action: 'add',
             iconCls: 'add'
         }, '-', {
             text: 'Remove',
-            tooltip: 'Remove the selected route',
-            action: 'remove-route',
+            tooltip: 'Remove the selected trip',
+            action: 'remove',
             iconCls: 'remove'
         }]
 });
