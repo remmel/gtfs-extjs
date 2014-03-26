@@ -8,8 +8,7 @@ Ext.Loader.setPath('Ext.ux', 'ux');
 
 Ext.application({
     requires: [
-        'Ext.container.Viewport',
-        
+        'Ext.container.Viewport'
     ],
     name: 'CB',
     appFolder: 'app',
@@ -17,7 +16,8 @@ Ext.application({
         'Users',
         'Main',
         'StopManager',
-        'RouteManager'
+        'RouteManager',
+        'ImportManager'
     ],
     launch: function() {
         Ext.create('Ext.container.Viewport', {

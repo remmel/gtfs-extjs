@@ -15,6 +15,8 @@ Ext.define('CB.view.Main', {
                         xtype: 'stopmanager'
                     }, {
                         xtype: 'userlist'
+                    }, {
+                        xtype: 'tabimport'
                     }
                 ]
             }];
