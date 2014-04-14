@@ -8,7 +8,7 @@ Ext.define('CB.view.Main', {
             {
                 xtype: 'tabpanel',
                 region: 'center',
-                activeTab: 0,
+                activeTab: 3,
                 items: [{
                         xtype: 'routemanager'
                     }, {
